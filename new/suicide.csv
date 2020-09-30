@@ -1,0 +1,86 @@
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Albania,2010,male,55-74 years,20,241852,8.27,Albania2010,0.722,"11,926,953,259",4359,Silent
+Albania,2010,male,35-54 years,20,371611,5.38,Albania2010,0.722,"11,926,953,259",4359,Generation X
+Albania,2010,male,25-34 years,9,179720,5.01,Albania2010,0.722,"11,926,953,259",4359,Generation X
+Albania,2010,female,25-34 years,6,183579,3.27,Albania2010,0.722,"11,926,953,259",4359,Generation X
+Albania,2010,female,35-54 years,12,394593,3.04,Albania2010,0.722,"11,926,953,259",4359,Generation X
+Brazil,2010,male,25-34 years,1832,17023785,10.76,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,male,35-54 years,2586,24501254,10.55,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,female,35-54 years,835,26004856,3.21,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2010,female,25-34 years,404,17054489,2.37,Brazil2010,0.737,"2,208,871,646,203",12161,Generation X
+Brazil,2012,male,55-74 years,1458,11612925,12.55,Brazil2012,0.746,"2,465,188,674,415",13283,Boomers
+Brazil,2012,male,35-54 years,2885,25463652,11.33,Brazil2012,0.746,"2,465,188,674,415",13283,Generation X
+Brazil,2012,female,35-54 years,877,26979566,3.25,Brazil2012,0.746,"2,465,188,674,415",13283,Generation X
+Brazil,2012,female,55-74 years,418,13532752,3.09,Brazil2012,0.746,"2,465,188,674,415",13283,Boomers
+Brazil,2013,male,55-74 years,1474,12036068,12.25,Brazil2013,0.752,"2,472,806,919,902",13191,Boomers
+Brazil,2013,male,35-54 years,3053,25965164,11.76,Brazil2013,0.752,"2,472,806,919,902",13191,Generation X
+Brazil,2013,female,35-54 years,897,27475364,3.26,Brazil2013,0.752,"2,472,806,919,902",13191,Generation X
+Brazil,2013,female,55-74 years,433,14022927,3.09,Brazil2013,0.752,"2,472,806,919,902",13191,Boomers
+Brazil,2014,male,55-74 years,1534,12492114,12.28,Brazil2014,0.755,"2,455,993,625,159",12975,Boomers
+Brazil,2014,male,35-54 years,3050,26475231,11.52,Brazil2014,0.755,"2,455,993,625,159",12975,Generation X
+Brazil,2014,female,35-54 years,871,27971096,3.11,Brazil2014,0.755,"2,455,993,625,159",12975,Generation X
+Brazil,2014,female,55-74 years,389,14550395,2.67,Brazil2014,0.755,"2,455,993,625,159",12975,Boomers
+Brazil,2015,male,55-74 years,1693,12987357,13.04,Brazil2015,,"1,802,214,373,741",9431,Boomers
+Brazil,2015,male,35-54 years,3238,26989063,12,Brazil2015,,"1,802,214,373,741",9431,Generation X
+Brazil,2015,female,35-54 years,910,28461855,3.2,Brazil2015,,"1,802,214,373,741",9431,Generation X
+Brazil,2015,female,55-74 years,479,15122216,3.17,Brazil2015,,"1,802,214,373,741",9431,Boomers
+Germany,2012,male,55-74 years,2302,9453082,24.35,Germany2012,0.915,"3,543,983,909,148",45142,Boomers
+Germany,2012,male,35-54 years,2408,12515919,19.24,Germany2012,0.915,"3,543,983,909,148",45142,Generation X
+Germany,2012,female,55-74 years,873,10078469,8.66,Germany2012,0.915,"3,543,983,909,148",45142,Boomers
+Germany,2012,female,35-54 years,810,12089833,6.7,Germany2012,0.915,"3,543,983,909,148",45142,Generation X
+Germany,2013,male,55-74 years,2379,9314147,25.54,Germany2013,0.915,"3,752,513,503,278",48563,Boomers
+Germany,2013,male,35-54 years,2423,12049310,20.11,Germany2013,0.915,"3,752,513,503,278",48563,Generation X
+Germany,2013,female,55-74 years,875,9995322,8.75,Germany2013,0.915,"3,752,513,503,278",48563,Boomers
+Germany,2013,female,35-54 years,808,11835769,6.83,Germany2013,0.915,"3,752,513,503,278",48563,Generation X
+Germany,2014,male,55-74 years,2410,9358747,25.75,Germany2014,0.916,"3,890,606,893,347",50167,Boomers
+Germany,2014,male,35-54 years,2444,11949414,20.45,Germany2014,0.916,"3,890,606,893,347",50167,Generation X
+Germany,2014,female,55-74 years,855,10013338,8.54,Germany2014,0.916,"3,890,606,893,347",50167,Boomers
+Germany,2014,female,35-54 years,801,11728001,6.83,Germany2014,0.916,"3,890,606,893,347",50167,Generation X
+Germany,2015,male,55-74 years,2304,9436572,24.42,Germany2015,,"3,375,611,100,742",43201,Boomers
+Germany,2015,male,35-54 years,2267,11854531,19.12,Germany2015,,"3,375,611,100,742",43201,Generation X
+Germany,2015,female,55-74 years,908,10054932,9.03,Germany2015,,"3,375,611,100,742",43201,Boomers
+Germany,2015,female,35-54 years,800,11616616,6.89,Germany2015,,"3,375,611,100,742",43201,Generation X
+Iceland,2012,male,55-74 years,6,28966,20.71,Iceland2012,0.897,"14,292,008,745",48083,Boomers
+Iceland,2012,male,35-54 years,8,42696,18.74,Iceland2012,0.897,"14,292,008,745",48083,Generation X
+Iceland,2012,female,55-74 years,4,28784,13.9,Iceland2012,0.897,"14,292,008,745",48083,Boomers
+Iceland,2012,female,35-54 years,3,42450,7.07,Iceland2012,0.897,"14,292,008,745",48083,Generation X
+Iceland,2013,male,35-54 years,12,42535,28.21,Iceland2013,0.899,"15,548,321,544",51749,Generation X
+Iceland,2013,male,55-74 years,6,29974,20.02,Iceland2013,0.899,"15,548,321,544",51749,Boomers
+Iceland,2013,female,35-54 years,5,42524,11.76,Iceland2013,0.899,"15,548,321,544",51749,Generation X
+Iceland,2013,female,55-74 years,3,29831,10.06,Iceland2013,0.899,"15,548,321,544",51749,Boomers
+Iceland,2014,male,55-74 years,8,31027,25.78,Iceland2014,0.899,"17,304,033,021",56833,Boomers
+Iceland,2014,male,35-54 years,7,42731,16.38,Iceland2014,0.899,"17,304,033,021",56833,Generation X
+Iceland,2014,female,35-54 years,4,42655,9.38,Iceland2014,0.899,"17,304,033,021",56833,Generation X
+Iceland,2014,female,55-74 years,2,30942,6.46,Iceland2014,0.899,"17,304,033,021",56833,Boomers
+Iceland,2015,male,35-54 years,11,43119,25.51,Iceland2015,,"16,942,247,374",54909,Generation X
+Iceland,2015,female,55-74 years,6,32013,18.74,Iceland2015,,"16,942,247,374",54909,Boomers
+Iceland,2015,male,55-74 years,5,32159,15.55,Iceland2015,,"16,942,247,374",54909,Boomers
+Iceland,2015,female,35-54 years,2,42858,4.67,Iceland2015,,"16,942,247,374",54909,Generation X
+Iceland,2016,male,55-74 years,10,33247,30.08,Iceland2016,,"20,304,098,101",64708,Boomers
+Iceland,2016,male,35-54 years,11,44024,24.99,Iceland2016,,"20,304,098,101",64708,Generation X
+Iceland,2016,female,55-74 years,2,32963,6.07,Iceland2016,,"20,304,098,101",64708,Boomers
+Iceland,2016,female,35-54 years,0,43216,0,Iceland2016,,"20,304,098,101",64708,Generation X
+Italy,2013,male,55-74 years,1039,6636981,15.65,Italy2013,0.873,"2,130,491,320,659",37050,Boomers
+Italy,2013,male,35-54 years,1162,9207071,12.62,Italy2013,0.873,"2,130,491,320,659",37050,Generation X
+Italy,2013,female,55-74 years,333,7290449,4.57,Italy2013,0.873,"2,130,491,320,659",37050,Boomers
+Italy,2013,female,35-54 years,335,9372465,3.57,Italy2013,0.873,"2,130,491,320,659",37050,Generation X
+Italy,2014,male,55-74 years,947,6738488,14.05,Italy2014,0.873,"2,151,732,868,243",37035,Boomers
+Italy,2014,male,35-54 years,1123,9296191,12.08,Italy2014,0.873,"2,151,732,868,243",37035,Generation X
+Italy,2014,female,35-54 years,371,9446533,3.93,Italy2014,0.873,"2,151,732,868,243",37035,Generation X
+Italy,2014,female,55-74 years,275,7381373,3.73,Italy2014,0.873,"2,151,732,868,243",37035,Boomers
+Italy,2015,male,55-74 years,934,6795801,13.74,Italy2015,,"1,832,868,490,534",31537,Boomers
+Italy,2015,male,35-54 years,1063,9239883,11.5,Italy2015,,"1,832,868,490,534",31537,Generation X
+Italy,2015,female,55-74 years,303,7434895,4.08,Italy2015,,"1,832,868,490,534",31537,Boomers
+Italy,2015,female,35-54 years,320,9386928,3.41,Italy2015,,"1,832,868,490,534",31537,Generation X
+United States,2013,male,55-74 years,8445,30405404,27.77,United States2013,0.913,"16,691,517,000,000",56520,Boomers
+United States,2013,male,35-54 years,11396,42085688,27.08,United States2013,0.913,"16,691,517,000,000",56520,Generation X
+United States,2013,female,35-54 years,3776,41983845,8.99,United States2013,0.913,"16,691,517,000,000",56520,Generation X
+United States,2013,female,55-74 years,2484,33229667,7.48,United States2013,0.913,"16,691,517,000,000",56520,Boomers
+United States,2014,male,55-74 years,8961,31339875,28.59,United States2014,0.915,"17,427,609,000,000",58531,Boomers
+United States,2014,male,35-54 years,11455,41858354,27.37,United States2014,0.915,"17,427,609,000,000",58531,Generation X
+United States,2014,female,35-54 years,4018,41742299,9.63,United States2014,0.915,"17,427,609,000,000",58531,Generation X
+United States,2014,female,55-74 years,2676,34193742,7.83,United States2014,0.915,"17,427,609,000,000",58531,Boomers
+United States,2015,male,55-74 years,9068,32264697,28.11,United States2015,,"18,120,714,000,000",60387,Boomers
+United States,2015,male,35-54 years,11634,41658010,27.93,United States2015,,"18,120,714,000,000",60387,Generation X
+United States,2015,female,35-54 years,4053,41531809,9.76,United States2015,,"18,120,714,000,000",60387,Generation X
+United States,2015,female,55-74 years,2872,35115610,8.18,United States2015,,"18,120,714,000,000",60387,Boomers

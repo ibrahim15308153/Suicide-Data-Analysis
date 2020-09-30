@@ -1,0 +1,25 @@
+@relation suicide-weka.filters.supervised.instance.Resample-B0.0-S1-Z60.0-weka.filters.supervised.instance.Resample-B0.0-S1-Z60.0-no-replacement-weka.filters.supervised.instance.Resample-B0.0-S1-Z40.0-no-replacement-V-weka.filters.supervised.instance.Resample-B0.0-S1-Z50.0-no-replacement
+
+@attribute country {Albania,Brazil,Germany,Iceland,Italy,'United States'}
+@attribute year numeric
+@attribute sex {male,female}
+@attribute age {'55-74 years','35-54 years','25-34 years'}
+@attribute suicides_no numeric
+@attribute population numeric
+@attribute 'suicides/100k pop' numeric
+@attribute country-year {Albania2010,Brazil2010,Brazil2012,Brazil2013,Brazil2014,Brazil2015,Germany2012,Germany2013,Germany2014,Germany2015,Iceland2012,Iceland2013,Iceland2014,Iceland2015,Iceland2016,Italy2013,Italy2014,Italy2015,'United States2013','United States2014','United States2015'}
+@attribute 'HDI for year' numeric
+@attribute ' gdp_for_year ($) ' {'11,926,953,259','2,208,871,646,203','2,465,188,674,415','2,472,806,919,902','2,455,993,625,159','1,802,214,373,741','3,543,983,909,148','3,752,513,503,278','3,890,606,893,347','3,375,611,100,742','14,292,008,745','15,548,321,544','17,304,033,021','16,942,247,374','20,304,098,101','2,130,491,320,659','2,151,732,868,243','1,832,868,490,534','16,691,517,000,000','17,427,609,000,000','18,120,714,000,000'}
+@attribute 'gdp_per_capita ($)' numeric
+@attribute generation {Silent,'Generation X',Boomers}
+
+@data
+'United States',2015,female,'35-54 years',4053,41531809,9.76,'United States2015',?,'18,120,714,000,000',60387,'Generation X'
+Germany,2012,male,'35-54 years',2408,12515919,19.24,Germany2012,0.915,'3,543,983,909,148',45142,'Generation X'
+Brazil,2014,male,'35-54 years',3050,26475231,11.52,Brazil2014,0.755,'2,455,993,625,159',12975,'Generation X'
+Brazil,2010,male,'35-54 years',2586,24501254,10.55,Brazil2010,0.737,'2,208,871,646,203',12161,'Generation X'
+Germany,2013,female,'35-54 years',808,11835769,6.83,Germany2013,0.915,'3,752,513,503,278',48563,'Generation X'
+Germany,2013,male,'55-74 years',2379,9314147,25.54,Germany2013,0.915,'3,752,513,503,278',48563,Boomers
+Germany,2012,male,'55-74 years',2302,9453082,24.35,Germany2012,0.915,'3,543,983,909,148',45142,Boomers
+Germany,2013,male,'55-74 years',2379,9314147,25.54,Germany2013,0.915,'3,752,513,503,278',48563,Boomers
+Italy,2014,female,'55-74 years',275,7381373,3.73,Italy2014,0.873,'2,151,732,868,243',37035,Boomers
